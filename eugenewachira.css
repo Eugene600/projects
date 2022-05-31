@@ -1,0 +1,40 @@
+.block1 {
+    font-size: large;
+    background-color: #000;
+    color: #fff;
+    max-width: 1500px;
+} 
+
+.block1a { 
+    background-color: none;
+    border: 13px solid dotted;
+    width: 700px;
+} 
+
+.block1a h2 {
+    font-weight: bold;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-transform: uppercase;
+}
+
+#index p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.utd h2 {
+    color: red;
+} 
+
+p {
+    font-size: medium;
+    font-style: italic;
+    line-break: strict;
+}
+
+
+  

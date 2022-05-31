@@ -1,0 +1,168 @@
+body {
+    font-weight: bold;
+    font-size: 1.6em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.eugene {
+    font-size: 3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: inherit;
+    border: solid;
+    border-width: 20px;
+    border-style: dotted;
+    padding: 10px;
+    margin: 30px;
+}
+
+.eugene h1 {
+    color: blue;
+    font-variant: inherit;
+    margin: auto;
+    width: 80%;
+}
+
+.eugene h3 {
+    color: blueviolet;
+}
+
+p {
+    font-size: inherit;
+    color: royalblue;
+
+}
+
+.eugene2 h2 {
+    width: 30%;
+    margin: auto;
+    font-size: 1.7em;
+    font-weight: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lawngreen;
+    text-decoration: underline;
+    text-transform: uppercase;
+} 
+
+
+.eugene2 p {
+    color: brown;
+    letter-spacing: 0.2em;
+    word-spacing: 1em;
+}
+
+.eugene4 h2 {
+    text-align: center;
+}
+  
+
+a {
+    text-decoration: none;
+    color: greenyellow;
+}
+
+
+a:hover{
+    color: red;
+}
+
+a:active {
+    color: royalblue;
+}
+
+
+.eugene4 ul {
+    list-style: square;
+}
+
+.eugene4 li {
+    padding-bottom:6px ;
+    border-bottom: dotted;
+}
+
+.myform label {
+    display: block;
+}
+
+.myform input[type="text"] {
+    padding: 20px;
+    width: 50%;
+}
+
+.button  {
+    background-color: black;
+    color:white;
+    padding: 8px 10px;
+    border: none;   
+}
+
+.button :hover {
+    background-color: violet;
+    color: white;
+}
+
+.block h3 {
+    color: blue;
+} 
+
+.block p {
+    color: black;
+}
+
+.block {
+    float: left;
+    width: 33.3%;
+    border: 1px solid;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.clr {
+    clear: both;
+} 
+
+.wachira5 {
+    float: left;
+    width: 70%;
+} 
+
+.wachira6 {
+    float: right;
+    width: 30%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: 1px solid;
+}
+
+.wachira7 {
+    border: solid 1px;
+    width: 800px;
+    height: 500px;
+    position: relative;
+    background-color: url('../images/wachira.jpg');
+} 
+
+.wachira7 h2 {
+    position: absolute;
+    top: 40px;
+    left: 300px;
+} 
+
+.wachira7 h3 {
+    position: absolute;
+    bottom: 40px;
+    right: 100px;
+}
+
+#eugo-block {
+    position: fixed;
+    top: 400px;
+}
+
+
+
+
+
+
+
+
+    
