@@ -1,4 +1,6 @@
-let amount= 45;
-amount=amount +1;
+let myArray = ["Eugene",19,23];
 
-console.log(amount);
+console.log(myArray);
+console.log(JSON.stringify(myArray));
+
+
